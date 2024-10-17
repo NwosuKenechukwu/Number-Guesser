@@ -3,15 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Guess_My_Number.Game;
 
 namespace Guess_My_Number.Display
 {
-    public class ConsoleInput : IDisplayInput
+    public class ConsoleOutput : IDisplayOutput
     {
-        public int Read()
+        public void Write(string text)
         {
-            int UserInput = Int32.Parse(Console.ReadLine());
-            return UserInput;
+            Console.WriteLine(text);
         }
     }
 }

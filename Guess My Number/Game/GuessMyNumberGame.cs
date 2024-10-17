@@ -3,32 +3,25 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Guess_My_Number.Display;
-using Guess_My_Number.Number_Generation;
 
 namespace Guess_My_Number.Game
 {
-    public class GuessingGameLogic : IGameLogic
+    public class GuessMyNumberGame
     {
         private int _numberOfAttempts = 5;
         private int _userInput;
 
-        private IDisplayInput _displayInput;
+        private IPlayerInput _displayInput;
         private IDisplayOutput _displayOutput;
         private IGenerateNumber _generateNumber;
-        public GuessingGameLogic(IDisplayInput displayInput ,IDisplayOutput displayOutput, IGenerateNumber generateNumber)
+        public GuessMyNumberGame(IPlayerInput displayInput ,IDisplayOutput displayOutput, IGenerateNumber generateNumber)
         {
             _displayInput = displayInput;
             _displayOutput = displayOutput;
             _generateNumber = generateNumber;
         }
 
-        public void checkGameState()
-        {
-            gameLoop();
-        }
-
-        public void gameLoop()
+        private void RunGameLoop()
         {
             while (numbersNotMatched() && _numberOfAttempts > 0)
             {
@@ -68,9 +61,16 @@ namespace Guess_My_Number.Game
             return _userInput != _generateNumber.GeneratedNumber;
         }
 
-        public void updateGameState()
+        private void updateGameState()
         {
             _numberOfAttempts--;
+        }
+
+        public void Play()
+        {
+            _displayOutput.Write(_generateNumber.DescribeHowToPlay());
+            _generateNumber.GenerateNumber();
+            RunGameLoop();
         }
     }
 }

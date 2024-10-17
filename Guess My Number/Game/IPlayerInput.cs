@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Guess_My_Number.Display
+namespace Guess_My_Number.Game
 {
-    public interface IDisplayInput
+    public interface IPlayerInput
     {
         public int Read();
     }

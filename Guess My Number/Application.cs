@@ -7,18 +7,16 @@ public class Application
 {
     static void Main()
     {
-        Application.Run();
+        new Application().Run();
     }
 
-    static void Run()
+    void Run()
     {
         IDisplayOutput displayOutput = new ConsoleOutput();
-        IDisplayInput displayInput = new ConsoleInput();
-        IGenerateNumber generateNumber = new GenerateRandomNumbers(0, 100);
-        IGameLogic logic = new GuessingGameLogic(displayInput, displayOutput, generateNumber);
+        IPlayerInput displayInput = new ConsoleInput();
+        IGenerateNumber generateNumber = new GenerateRandomNumbers(0, 10);
+        GuessMyNumberGame game = new GuessMyNumberGame(displayInput, displayOutput, generateNumber);
 
-        GuessingGameSetup newGame = new GuessingGameSetup(displayOutput, generateNumber, logic);
-
-        newGame.Init();
+        game.Play();
     }
 }

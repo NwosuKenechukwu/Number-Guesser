@@ -3,14 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Guess_My_Number.Game;
 
 namespace Guess_My_Number.Display
 {
-    public class ConsoleOutput : IDisplayOutput
+    public class ConsoleInput : IPlayerInput
     {
-        public void Write(string text)
+        public int Read()
         {
-            Console.WriteLine(text);
+            int UserInput = Int32.Parse(Console.ReadLine());
+            return UserInput;
         }
     }
 }
