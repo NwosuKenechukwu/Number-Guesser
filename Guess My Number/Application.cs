@@ -14,7 +14,7 @@ public class Application
     {
         IDisplayOutput displayOutput = new ConsoleOutput();
         IDisplayInput displayInput = new ConsoleInput();
-        IGenerateNumber generateNumber = new GenerateRandomNumbers();
+        IGenerateNumber generateNumber = new GenerateRandomNumbers(0, 100);
         IGameLogic logic = new GuessingGameLogic(displayInput, displayOutput, generateNumber);
 
         GuessingGameSetup newGame = new GuessingGameSetup(displayOutput, generateNumber, logic);

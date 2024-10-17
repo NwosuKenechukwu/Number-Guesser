@@ -10,11 +10,13 @@ namespace Guess_My_Number.Number_Generation
     {
         public int GeneratedNumber { get; private set; }
 
-        private int _testNumber = 10;
+        public int Min { get; set; } = 10;
+
+        public int Max { get; set; } = 10;
 
         public void GenerateNumber()
         {
-            GeneratedNumber = _testNumber;
+            GeneratedNumber = (Min + Max) / 2;
         }
     }
 }

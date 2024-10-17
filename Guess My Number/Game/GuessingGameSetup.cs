@@ -23,7 +23,7 @@ namespace Guess_My_Number.Game
 
         public void Init()
         {
-            _displayOutput.Write("Guess a number between 1 to 100");
+            _displayOutput.Write("Guess a number between " + _generateNumber.Min + " and " + _generateNumber.Max);
             _generateNumber.GenerateNumber();
             _logic.checkGameState();
         }

@@ -9,6 +9,8 @@ namespace Guess_My_Number.Number_Generation
     public interface IGenerateNumber
     {
         public int GeneratedNumber { get; }
+        public int Min { get; set; }
+        public int Max { get; set; }
 
         public void GenerateNumber();
 

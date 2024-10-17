@@ -10,12 +10,17 @@ namespace Guess_My_Number.Number_Generation
     {
         public int GeneratedNumber { get; private set; }
 
-        private int _min = 0;
-        private int _max = 100;
+        public int Min { get; set; }
+        public int Max { get; set; }
+
+        public GenerateRandomNumbers(int min, int max) {
+            Min = min;
+            Max = max;
+        }
 
         public void GenerateNumber()
         {
-            GeneratedNumber = new Random().Next(_min, _max);
+            GeneratedNumber = new Random().Next(Min, Max);
         }
     }
 }

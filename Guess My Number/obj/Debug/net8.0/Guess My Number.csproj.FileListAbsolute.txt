@@ -12,3 +12,4 @@ C:\Users\ken.nwosu\source\repos\Guess-My-Number\Guess My Number\obj\Debug\net8.0
 C:\Users\ken.nwosu\source\repos\Guess-My-Number\Guess My Number\obj\Debug\net8.0\Guess My Number.pdb
 C:\Users\ken.nwosu\source\repos\Guess-My-Number\Guess My Number\obj\Debug\net8.0\Guess My Number.genruntimeconfig.cache
 C:\Users\ken.nwosu\source\repos\Guess-My-Number\Guess My Number\obj\Debug\net8.0\ref\Guess My Number.dll
+C:\Users\ken.nwosu\source\repos\Guess-My-Number\Guess My Number\obj\Debug\net8.0\Guess My Number.sourcelink.json

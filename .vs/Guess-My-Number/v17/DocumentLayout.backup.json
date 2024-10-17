@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|c:\\users\\ken.nwosu\\source\\repos\\guess-my-number\\guess my number\\game\\guessinggamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|solutionrelative:guess my number\\game\\guessinggamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|c:\\users\\ken.nwosu\\source\\repos\\guess-my-number\\guess my number\\game\\guessinggamesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|solutionrelative:guess my number\\game\\guessinggamesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|c:\\users\\ken.nwosu\\source\\repos\\guess-my-number\\guess my number\\number generation\\igeneratenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|solutionrelative:guess my number\\number generation\\igeneratenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|c:\\users\\ken.nwosu\\source\\repos\\guess-my-number\\guess my number\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|solutionrelative:guess my number\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|c:\\users\\ken.nwosu\\source\\repos\\guess-my-number\\guess my number\\number generation\\generatetestnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|solutionrelative:guess my number\\number generation\\generatetestnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|c:\\users\\ken.nwosu\\source\\repos\\guess-my-number\\guess my number\\number generation\\igeneratenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|solutionrelative:guess my number\\number generation\\igeneratenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|c:\\users\\ken.nwosu\\source\\repos\\guess-my-number\\guess my number\\game\\guessinggamesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|solutionrelative:guess my number\\game\\guessinggamesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|c:\\users\\ken.nwosu\\source\\repos\\guess-my-number\\guess my number\\number generation\\generaterandomnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|solutionrelative:guess my number\\number generation\\generaterandomnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|c:\\users\\ken.nwosu\\source\\repos\\guess-my-number\\guess my number\\game\\igamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|solutionrelative:guess my number\\game\\igamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|c:\\users\\ken.nwosu\\source\\repos\\guess-my-number\\guess my number\\game\\guessinggamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|solutionrelative:guess my number\\game\\guessinggamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|c:\\users\\ken.nwosu\\source\\repos\\guess-my-number\\guess my number\\game\\igamesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|solutionrelative:guess my number\\game\\igamesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|c:\\users\\ken.nwosu\\source\\repos\\guess-my-number\\guess my number\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C85E9B7A-B0BC-4B7A-A7BB-4CA27DE23640}|Guess My Number\\Guess My Number.csproj|solutionrelative:guess my number\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,84 +38,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GuessingGameLogic.cs",
-              "DocumentMoniker": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Game\\GuessingGameLogic.cs",
-              "RelativeDocumentMoniker": "Guess My Number\\Game\\GuessingGameLogic.cs",
-              "ToolTip": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Game\\GuessingGameLogic.cs",
-              "RelativeToolTip": "Guess My Number\\Game\\GuessingGameLogic.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:26:59.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GuessingGameSetup.cs",
-              "DocumentMoniker": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Game\\GuessingGameSetup.cs",
-              "RelativeDocumentMoniker": "Guess My Number\\Game\\GuessingGameSetup.cs",
-              "ToolTip": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Game\\GuessingGameSetup.cs",
-              "RelativeToolTip": "Guess My Number\\Game\\GuessingGameSetup.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:03:43.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IGameSetup.cs",
-              "DocumentMoniker": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Game\\IGameSetup.cs",
-              "RelativeDocumentMoniker": "Guess My Number\\Game\\IGameSetup.cs",
-              "ToolTip": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Game\\IGameSetup.cs",
-              "RelativeToolTip": "Guess My Number\\Game\\IGameSetup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:26:04.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IGameLogic.cs",
-              "DocumentMoniker": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Game\\IGameLogic.cs",
-              "RelativeDocumentMoniker": "Guess My Number\\Game\\IGameLogic.cs",
-              "ToolTip": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Game\\IGameLogic.cs",
-              "RelativeToolTip": "Guess My Number\\Game\\IGameLogic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:24:02.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GenerateRandomNumbers.cs",
-              "DocumentMoniker": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Number Generation\\GenerateRandomNumbers.cs",
-              "RelativeDocumentMoniker": "Guess My Number\\Number Generation\\GenerateRandomNumbers.cs",
-              "ToolTip": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Number Generation\\GenerateRandomNumbers.cs",
-              "RelativeToolTip": "Guess My Number\\Number Generation\\GenerateRandomNumbers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:21:38.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "GenerateTestNumbers.cs",
               "DocumentMoniker": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Number Generation\\GenerateTestNumbers.cs",
               "RelativeDocumentMoniker": "Guess My Number\\Number Generation\\GenerateTestNumbers.cs",
               "ToolTip": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Number Generation\\GenerateTestNumbers.cs",
               "RelativeToolTip": "Guess My Number\\Number Generation\\GenerateTestNumbers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:11:54.568Z",
+              "WhenOpened": "2024-10-17T08:48:46.707Z",
               "EditorCaption": ""
             },
             {
@@ -130,20 +61,72 @@
               "RelativeDocumentMoniker": "Guess My Number\\Number Generation\\IGenerateNumber.cs",
               "ToolTip": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Number Generation\\IGenerateNumber.cs",
               "RelativeToolTip": "Guess My Number\\Number Generation\\IGenerateNumber.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:09:08.689Z",
+              "WhenOpened": "2024-10-17T08:47:30.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "IGameSetup.cs",
+              "DocumentMoniker": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Game\\IGameSetup.cs",
+              "RelativeDocumentMoniker": "Guess My Number\\Game\\IGameSetup.cs",
+              "ToolTip": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Game\\IGameSetup.cs",
+              "RelativeToolTip": "Guess My Number\\Game\\IGameSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:41:42.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GuessingGameLogic.cs",
+              "DocumentMoniker": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Game\\GuessingGameLogic.cs",
+              "RelativeDocumentMoniker": "Guess My Number\\Game\\GuessingGameLogic.cs",
+              "ToolTip": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Game\\GuessingGameLogic.cs",
+              "RelativeToolTip": "Guess My Number\\Game\\GuessingGameLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:41:31.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenerateRandomNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Number Generation\\GenerateRandomNumbers.cs",
+              "RelativeDocumentMoniker": "Guess My Number\\Number Generation\\GenerateRandomNumbers.cs",
+              "ToolTip": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Number Generation\\GenerateRandomNumbers.cs",
+              "RelativeToolTip": "Guess My Number\\Number Generation\\GenerateRandomNumbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:40:23.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GuessingGameSetup.cs",
+              "DocumentMoniker": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Game\\GuessingGameSetup.cs",
+              "RelativeDocumentMoniker": "Guess My Number\\Game\\GuessingGameSetup.cs",
+              "ToolTip": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Game\\GuessingGameSetup.cs",
+              "RelativeToolTip": "Guess My Number\\Game\\GuessingGameSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:30:18.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Application.cs",
               "DocumentMoniker": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Application.cs",
               "RelativeDocumentMoniker": "Guess My Number\\Application.cs",
               "ToolTip": "C:\\Users\\ken.nwosu\\source\\repos\\Guess-My-Number\\Guess My Number\\Application.cs",
               "RelativeToolTip": "Guess My Number\\Application.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAEwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T16:54:25.908Z",
               "EditorCaption": ""
