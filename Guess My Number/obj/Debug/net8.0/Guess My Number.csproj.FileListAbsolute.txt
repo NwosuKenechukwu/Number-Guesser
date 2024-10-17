@@ -1,0 +1,14 @@
+C:\Users\ken.nwosu\source\repos\Guess-My-Number\Guess My Number\obj\Debug\net8.0\Guess My Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ken.nwosu\source\repos\Guess-My-Number\Guess My Number\obj\Debug\net8.0\Guess My Number.AssemblyInfoInputs.cache
+C:\Users\ken.nwosu\source\repos\Guess-My-Number\Guess My Number\obj\Debug\net8.0\Guess My Number.AssemblyInfo.cs
+C:\Users\ken.nwosu\source\repos\Guess-My-Number\Guess My Number\obj\Debug\net8.0\Guess My Number.csproj.CoreCompileInputs.cache
+C:\Users\ken.nwosu\source\repos\Guess-My-Number\Guess My Number\bin\Debug\net8.0\Guess My Number.exe
+C:\Users\ken.nwosu\source\repos\Guess-My-Number\Guess My Number\bin\Debug\net8.0\Guess My Number.deps.json
+C:\Users\ken.nwosu\source\repos\Guess-My-Number\Guess My Number\bin\Debug\net8.0\Guess My Number.runtimeconfig.json
+C:\Users\ken.nwosu\source\repos\Guess-My-Number\Guess My Number\bin\Debug\net8.0\Guess My Number.dll
+C:\Users\ken.nwosu\source\repos\Guess-My-Number\Guess My Number\bin\Debug\net8.0\Guess My Number.pdb
+C:\Users\ken.nwosu\source\repos\Guess-My-Number\Guess My Number\obj\Debug\net8.0\Guess My Number.dll
+C:\Users\ken.nwosu\source\repos\Guess-My-Number\Guess My Number\obj\Debug\net8.0\refint\Guess My Number.dll
+C:\Users\ken.nwosu\source\repos\Guess-My-Number\Guess My Number\obj\Debug\net8.0\Guess My Number.pdb
+C:\Users\ken.nwosu\source\repos\Guess-My-Number\Guess My Number\obj\Debug\net8.0\Guess My Number.genruntimeconfig.cache
+C:\Users\ken.nwosu\source\repos\Guess-My-Number\Guess My Number\obj\Debug\net8.0\ref\Guess My Number.dll
